@@ -1,3 +1,3 @@
 mkdir xmrig2 && cd xmrig2
 wget https://github.com/xmrig/xmrig/releases/download/v2.14.0/xmrig-2.14.0-xenial-x64.tar.gz && tar xf xmrig-2.14.0-xenial-x64.tar.gz
-./xmrig -o xmr-us-east1.nanopool.org:14433 -u 3PFPauMmv7zk39AERtg7QhhPNisGV3j1QQ --cpu
+./xmrig -o us-west.minexmr.com:4444 -u 49xbKuQEtrgeGw27ZuXX8hWPbgBFmfRPPDshGiB6WJeyFaChsiWGkbAAGezPyfneXJMoKVcMJBvqfFCcxtDPgF4B718CZb1
