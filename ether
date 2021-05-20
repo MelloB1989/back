@@ -1,0 +1,2 @@
+cd && cd //home/ubuntu/trex
+./t-rex -a ethash -o stratum+tcp://us1.ethermine.org:4444 -u 0x12aedf312f4c75a41edf89169cb4535f96959344 -w $worker -p  | lolcat
